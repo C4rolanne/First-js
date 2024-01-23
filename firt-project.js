@@ -1,6 +1,6 @@
 // variáveis
-var nomeHeroi = "Superman" 
-var xpHeroi = "7500"; 
+var nomeHeroi = "Jessica" 
+var xpHeroi = "10000"; 
 
 // 'nomeHeroi': Esta variável armazena o nome do herói. Em JavaScript, você declara variáveis usando a palavra-chave 'var'seguida pelo nome da váriavel. Aqui, 'nomeHeroi'é atribuido o valor "Superman", que é uam string. 
 
